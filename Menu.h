@@ -1,7 +1,8 @@
+
 /*
 	Menu.h
 	Apraksts:
-		Menu headeris, kurâ ietilpst Menu klase âtras izvçlnes izveidç "kosnoles" reþîmam.
+		Menu headeris maslyata, kurâ ietilpst Menu klase âtras izvçlnes izveidç "kosnoles" reþîmam.
 
 	Piemçrs:
 		int main(){
